@@ -1,4 +1,5 @@
-# edu_project_1-html-css-
+# edu_project_1-html-css- WORDPRESS
+
 первый проект(пет) написано HTML-CSS
 HTML:
 - сематические теги
