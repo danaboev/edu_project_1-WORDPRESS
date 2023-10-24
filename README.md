@@ -6,6 +6,7 @@
 HTML:
 - сематические теги
 - button
+  
 CSS:
 - background: url('../') center center / cover no-repeat
 - block(inline/inline-block)
