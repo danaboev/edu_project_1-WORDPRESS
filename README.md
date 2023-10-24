@@ -1,6 +1,8 @@
 # edu_project_1-html-css- WORDPRESS
   EDU PROJECT_1
+  
 первый проект(пет) разработано на технологиях HTML-CSS
+
 HTML:
 - сематические теги
 - button
