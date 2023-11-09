@@ -12,6 +12,9 @@ CSS:
 - block(inline/inline-block)
 - position(static/relative/absolute/inherit)
 - min-height
+
+Flebox tech
+
 - flexbox(justify-content/align-items)col/row
 - vertical-align
 - fonts
