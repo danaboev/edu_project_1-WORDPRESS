@@ -15,7 +15,6 @@ CSS:
 - min-height
 
 Flebox tech
-
 - flexbox(justify-content/align-items)col/row
 - vertical-align
 - fonts
